@@ -8,5 +8,5 @@ To reduce customer churn, telecom companies need to predict which customers are 
  
  
  
-In this project, I have analysed customer-level data of a leading telecom firm and built a predictive models to identified the customers at high risk of churn and identified the main indicators of churn.
+In this project, I have analysed customer-level data of a leading telecom firm and built a predictive models to identified the customers at high risk of churn and identified the main indicators of churn using Logistic Regression.
 
